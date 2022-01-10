@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @foxler2010
-- 👀 I’m interested in Servers, Java, Minecraft Modding, Raspberry Pis, and a lot of other things
+- 👀 I’m interested in Servers, Java, and a lot of other things
 - 🌱 I’m currently learning Java
-- 💞️ I’m not looking to collaborate on much, I don't develop for a living, it's just one of my key interests
+- 💞️ I’m not looking to collaborate on much, just a student for now.
 - 📫 How to reach me: email drew@drewssite.top
 
 <!---
