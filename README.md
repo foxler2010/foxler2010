@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @foxler2010
-- 👀 I’m interested in Servers, Programming/Coding, and a lot of other things
-- 🌱 I’m currently learning a lot
-- 💞️ I’m not looking to collaborate on much, just a student for now.
-- 📫 How to reach me: email drew@drewssite.top
-
-<!---
-foxler2010/foxler2010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I like computers. I don't like programming computers. I have an account on GitHub because I am forced to program computers by my professor. I will continue to have an account on GitHub even when I'm not forced to program computers, because GitHub gives me free file storage and uses the Git Version Control System, which I am fond of. One day I will have enough hard drives that I can finally move everything off the cloud, touch grass and be happy.
